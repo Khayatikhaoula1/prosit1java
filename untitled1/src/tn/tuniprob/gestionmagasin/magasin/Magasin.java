@@ -1,3 +1,4 @@
+package tn.tuniprob.gestionmagasin.magasin;
 
 public class Magasin {
      int id;

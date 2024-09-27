@@ -1,3 +1,6 @@
+import tn.tuniprob.gestionmagasin.magasin.Magasin;
+import tn.tuniprob.gestionmagasin.magasin.Produit;
+
 import java.util.ArrayList;
 import java.util.List;
 

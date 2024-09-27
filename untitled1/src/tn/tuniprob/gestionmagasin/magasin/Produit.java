@@ -1,3 +1,5 @@
+package tn.tuniprob.gestionmagasin.magasin;
+
 import java.util.Date;
 
 public class Produit {
@@ -27,7 +29,7 @@ public class Produit {
 
     @Override
     public String toString() {
-        return "Produit{" +
+        return "tn.tuniprob.gestionmagasin.magasin.Produit{" +
                 "id=" + id +
                 ", libelle='" + libelle + '\'' +
                 ", marque='" + marque + '\'' +
